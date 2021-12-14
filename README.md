@@ -19,5 +19,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Warning when building
-warning mapping new ns http //schemas.android.com/repository/android/common/02
+warning mapping new ns http //schemas.android.com/repository/android/common/02  
 Android Studio > Project Structure > Project > Project SDK Setting
